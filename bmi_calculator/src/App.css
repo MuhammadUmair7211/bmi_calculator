@@ -1,0 +1,8 @@
+*{
+    margin: 0px;
+    font-family: cursive;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
